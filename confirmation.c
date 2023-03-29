@@ -4,6 +4,7 @@
 #include <ctype.h>
 #include <math.h>
 
+//hello
 void CleanBuffer(){
     int n;
     while((n = getchar()) != EOF && n != '\n' );
